@@ -1,0 +1,54 @@
+%history -f history.txt
+{ "hair": True, "handsome": True, "height": 5.9 }
+type{ "hair": True, "handsome": True, "height": 5.9 }
+type({ "hair": True, "handsome": True, "height": 5.9 })
+t
+connor = { "hair": True, "handsome": True, "height": 5.9 }
+connor?
+x = 3
+type(x)
+x = x + 1
+x
+%whos
+y=(2, True)
+y
+%whos
+connor.
+connor.values
+connor.values()
+connor.keys()
+connor.get("height")
+connor.get("height") == 5.9
+connor.get("height") > 5
+connor.get("height") == "5.9"
+connor.
+connor.values(True)
+connor.values(True)
+connor.values?
+3
+4
+_
+8+8*9
+x=_
+x
+_45
+print(
+
+
+
+jdjd
+sljf
+)
+string(5)
+str(5)
+str(Now is the time for all good men)
+'4' + 8
+str(now)
+str(9)
+False + False
+False + False + True
+-1
+type
+type(-1)
+%hist
+%history -f history.txt
